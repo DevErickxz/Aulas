@@ -1,0 +1,18 @@
+# <- Isso é um comentário, usamos para comentar coisas sobre o código,
+o interpretador do Python ignora tudo que estiver na linha do #
+"""G""" Já isso é uma Docstring e NÃO, ela não é um comentário.
+Mas o interpretador ignora também. Os devs usam elas para fazer comentários multilinha porque o # comenta apenas naquela linha, já a docstring não.
+Tudo que estiver dentro da docstring ele irá ignorar.
+"""
+Exemplo: isso 
+o interpretador irá ignorar.
+"""
+aula1 # <- Isso é um comentário, usamos para comentar coisas sobre o código 
+O interpretador do Python ignora tudo que estiver na linha do #
+"""G""" Já isso é uma Docstring e NÃO, ela não é um comentário.
+Mas o interpretador ignora também. Os devs usam elas para fazer comentários multilinha porque o # comenta apenas naquela linha, já a docstring não.
+Tudo que estiver dentro da docstring ele irá ignorar.
+"""
+Exemplo: isso 
+o interpretador irá ignorar.
+"""

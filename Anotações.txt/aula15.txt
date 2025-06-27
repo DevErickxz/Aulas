@@ -1,0 +1,20 @@
+o que faz a função input?
+a funcao input serve para receber informações do usuario pelo terminal
+por que no output nao pode ser?
+por que o output é apenas saida de informação nao recebimento
+ele apenas printa la pra voce ver 
+ja o terminal ele recebe informacoes do usuario, e envia tambem 
+
+exemplo:
+nome = input('Qual seu nome?')
+eu to guardando a informação que eu recebi do terminal que o usuario colocou
+na variavel nome
+
+com isso posso fazer varias coisas exemplo 
+
+print("seu nome é: ", nome)
+
+e entao ele vai printar o mesmo que voce colocou no terminal
+
+
+
