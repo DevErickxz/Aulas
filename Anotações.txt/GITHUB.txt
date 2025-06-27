@@ -12,6 +12,7 @@ C = Copied (copiado): arquivo que foi copiado.
 
 ? = Arquivo ignorado (geralmente em .gitignore).
 
+dsada
 
 sempre no final  que terminar de estudar e etc 
 
