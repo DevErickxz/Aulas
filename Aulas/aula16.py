@@ -12,6 +12,3 @@ else:
     print('Você não digitou nem entrar e nem sair')
 
 
-print('Fim do programa')    
-print('ou seu esquizofrenico')
-print('mo estrnhao voce em cara')

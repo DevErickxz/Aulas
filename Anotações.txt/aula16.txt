@@ -20,3 +20,5 @@ elif condicao2:
     # bloco de código se condicao2 for verdadeira
 else:
     # bloco de código se todas as condições anteriores forem falsas
+ 
+Fim e então se acaba a aula 16 
