@@ -13,3 +13,5 @@ else:
 
 
 print('Fim do programa')    
+print('ou seu esquizofrenico')
+print('mo estrnhao voce em cara')
