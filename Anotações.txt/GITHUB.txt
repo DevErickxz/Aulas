@@ -1,0 +1,21 @@
+U = Untracked (não rastreado): arquivo novo que ainda não foi adicionado ao Git.
+
+M = Modified (modificado): arquivo que foi alterado desde o último commit.
+
+A = Added (adicionado): arquivo novo que foi adicionado ao stage para o próximo commit.
+
+D = Deleted (deletado): arquivo removido.
+
+R = Renamed (renomeado): arquivo que foi renomeado ou movido.
+
+C = Copied (copiado): arquivo que foi copiado.
+
+? = Arquivo ignorado (geralmente em .gitignore).
+
+
+sempre no final  que terminar de estudar e etc 
+
+git add .
+git commit -m "Aulas"
+git push
+fazer isso 
