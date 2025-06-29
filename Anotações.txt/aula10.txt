@@ -1,9 +1,0 @@
-o que é concatenação?
-concatenação significa juntar
-exemplo:
-print("Hello" + " " + "World")
-ficaria Hello World 
-como eu concateno strings? 
-var = "Hello" + ' ' + 'weirdo'
-print(var)
-pronto simples 
