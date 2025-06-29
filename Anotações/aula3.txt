@@ -1,0 +1,26 @@
+o python é uma linguagem de tipagem dinamica e forte
+
+o que é tipagem dinamica?
+significa que o python ja sabe o tipo de informação que ele recebe
+exemplo:
+print(123)
+ele ja sabe que é um inteiro e executa
+se fosse uma linguagem estatica eu precisaria declarar o tipo da variavel antes
+
+o que são strings?
+strings sao textos que estão dentro de aspas
+exemplo:
+print("Hello, World!")
+nesse caso Hello, World! é uma string
+
+o que é o escape(\)?
+o escape é essa \ que serve para ignorar o proximo caractere que vem apos ela 
+exemplo:
+print("Hello, \'World\'!")
+>Hello, 'World'!
+
+pra que serve o r?
+o r serve para ignorar os \ que vem apos ele
+exemplo:
+print(r"Hello, \'World\'!")
+>Hello, \'World\'

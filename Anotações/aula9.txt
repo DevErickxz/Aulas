@@ -1,0 +1,6 @@
+a divisão sempre vai dar um resultado com ponto flutuante
+
+a divisão inteira sempre vai dar um resultado inteiro
+
+o modulo é o resto da divisão
+

@@ -1,0 +1,5 @@
+OBS: nao se pode ter um elif e nem um else sozinho, tem que ter um if antes, SEMPRE!
+
+o leitor do python ele sempre vai ler o primeiro if, se ele for verdadeiro, 
+ele executa o bloco de codigo do if e ignora os outros ifs, 
+se ele for falso, ele vai ler o segundo if e assim por diante.

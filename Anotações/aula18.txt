@@ -1,0 +1,9 @@
+o debugger do python ele le de cima pra baixo da mesma forma que o interpretador
+com o debugger voce consegue ver varias coisas dentre elas:
+como seu codigo flui
+como o interpretador esta lendo o codigo
+aonde é que estao os seus erros
+
+
+
+

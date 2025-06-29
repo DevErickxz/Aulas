@@ -1,0 +1,9 @@
+operadores de comparação(relacionais):
+OP           Significado        Exemplo(True)
+
+==           Igualdade          5 == 5
+!=           Diferença          5 != 4
+>            Maior que          5 > 4
+<            Menor que          5 < 6
+>=           Maior ou igual     5 >= 5
+<=           Menor ou igual     5 <= 6

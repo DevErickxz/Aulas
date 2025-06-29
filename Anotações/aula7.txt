@@ -1,0 +1,16 @@
+o que são variaveis e o que elas fazem?
+variaveis sao espacos na memoria do computador
+que armazenam informacoes
+
+o que elas fazem?
+armazenam informacoes
+
+como declarar uma variavel?
+nome_da_variavel = valor
+
+
+o que é PEP8?
+PEP8 e o codigo de estilo da comunidade python
+ 
+inicie variaveis com letras minusculas, pode usar numeros e underline 
+menos espaços
