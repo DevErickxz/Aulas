@@ -1,0 +1,11 @@
+Operadores lógicos:
+and(e) or (ou) not(não)
+//////////////////////
+and: Todas as condições precisam ser verdadeiras pra retornar True
+se uma for False, retorna False
+e a expressão inteira sera avaliada como falsy
+//////////////////////
+or: Pelo menos uma condição precisa ser verdadeira pra retornar True
+se todas forem False, retorna False
+//////////////////////
+existe o none tambem que é usado pra representar um nao valor

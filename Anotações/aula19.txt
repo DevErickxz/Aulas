@@ -7,3 +7,14 @@ OP           Significado        Exemplo(True)
 <            Menor que          5 < 6
 >=           Maior ou igual     5 >= 5
 <=           Menor ou igual     5 <= 6
+
+eles sempre vao retornar True ou False
+
+se eu printar 
+ma = 2>1
+print(ma)
+True
+
+tem um macete que nos podemos usar no terminal pra testar funções e etc
+que é o shell interativo do python
+python -i nome_do_arquivo.py
