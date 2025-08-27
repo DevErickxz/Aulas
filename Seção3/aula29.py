@@ -12,3 +12,7 @@ try:
     print(f'o dobro o numero {numero_float} é {numero_float * 2:.2f}')
 except:
     print('Você não digitou um número válido.')
+
+
+
+
